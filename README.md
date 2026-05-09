@@ -1,8 +1,8 @@
-# OOU_CSC309_Artificial_Intelligence
+# CSC 810 _Artificial_Intelligence - IBB University, Lapai
 
 Lecture note, Practical notebooks and mini-projects for CSC 810 - Artificial_Intelligence
 
-### CSC 309 Lecture Note (Google Docs)
+### CSC 810 Lecture Note (Google Docs)
 https://docs.google.com/document/d/1oHnlc3ToWUR2_Er4sJooinJuQYlG6dq6gTHqaD5M6UI/edit?usp=sharing
 
 🧪 Practical Notebooks
