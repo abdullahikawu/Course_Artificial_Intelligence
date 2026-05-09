@@ -11,16 +11,15 @@ Lecture note, Practical notebooks and mini-projects for CSC810 - Artificial_Inte
 
 ### Week 1 Excercise 1 – Turing Test Practical (Student-Centred)
 Notebook: `Week 1 Ex. 1`
-[![Open In Colab][ (https://colab.research.google.com/assets/colab-badge.svg)](
-[(https://colab.research.google.com/drive/1HbU97vtJI-MLG0V7gbCG4fhTiHDaMSuI?usp=sharing)])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+)](https://colab.research.google.com/drive/1HbU97vtJI-MLG0V7gbCG4fhTiHDaMSuI#scrollTo=9e5e4a8a)
 
 
 
 ### Week 1 Excercise 2 - Intelligent_Agents
 Notebook: `Week 1 Ex 2` 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-[(https://colab.research.google.com/drive/14XkjSckFZ6qMVYc1k-8pknr7yEQeEIlV?usp=sharing)])
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][(
+https://colab.research.google.com/drive/14XkjSckFZ6qMVYc1k-8pknr7yEQeEIlV?usp=sharing)]
 
 
 This repository contains AI practical notebooks for CSC 810: Artificial Intelligence.
