@@ -19,3 +19,7 @@ Notebook: `Week 1 Ex 2`
 https://colab.research.google.com/drive/14XkjSckFZ6qMVYc1k-8pknr7yEQeEIlV?usp=sharing)
 
 
+### Week 2 – AI Search Techniques
+Notebook: `Week 2 Ex`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+[https://colab.research.google.com/drive/1HbU97vtJI-MLG0V7gbCG4fhTiHDaMSuI?usp=sharing](https://colab.research.google.com/drive/1UoL0I9VcVrr3XqQPDvUUIclkKiLnLh_9?usp=sharing))
